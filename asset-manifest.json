@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blawrence5298/pages_test.git/static/css/main.073c9b0a.css",
+    "main.js": "/blawrence5298/pages_test.git/static/js/main.49297904.js",
+    "static/js/787.6ec6b3f8.chunk.js": "/blawrence5298/pages_test.git/static/js/787.6ec6b3f8.chunk.js",
+    "static/media/logo.svg": "/blawrence5298/pages_test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/blawrence5298/pages_test.git/index.html",
+    "main.073c9b0a.css.map": "/blawrence5298/pages_test.git/static/css/main.073c9b0a.css.map",
+    "main.49297904.js.map": "/blawrence5298/pages_test.git/static/js/main.49297904.js.map",
+    "787.6ec6b3f8.chunk.js.map": "/blawrence5298/pages_test.git/static/js/787.6ec6b3f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49297904.js"
+  ]
+}
